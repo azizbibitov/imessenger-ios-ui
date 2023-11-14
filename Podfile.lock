@@ -1,0 +1,24 @@
+PODS:
+  - EasyPeasy (1.9.0)
+  - lottie-ios (3.4.1)
+  - Parchment (3.2.0)
+
+DEPENDENCIES:
+  - EasyPeasy (= 1.9.0)
+  - lottie-ios
+  - Parchment (~> 3.2)
+
+SPEC REPOS:
+  trunk:
+    - EasyPeasy
+    - lottie-ios
+    - Parchment
+
+SPEC CHECKSUMS:
+  EasyPeasy: 19a84ef8f8bbcf925b9fecc29d1d78b7dab96718
+  lottie-ios: 016449b5d8be0c3dcbcfa0a9988469999cd04c5d
+  Parchment: a43c440b22c8a60f7e0196b74339446d4d1d18ea
+
+PODFILE CHECKSUM: 8707a1ab7a6791e0af075f9755015e768a391678
+
+COCOAPODS: 1.11.3
